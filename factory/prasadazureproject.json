@@ -1,0 +1,9 @@
+{
+	"name": "prasadazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b32746f-3fd8-4ba3-8b9c-7ecbf505d751",
+		"tenantId": "f6185ee5-4161-44c4-8af1-021d82e6b787"
+	}
+}
